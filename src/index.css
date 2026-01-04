@@ -1,0 +1,27 @@
+@import 'tailwindcss';
+body{
+  background-color: rgb(244, 242, 242);
+}
+.main{
+  display: flex;
+   flex-wrap: wrap;
+   margin: 20px;
+
+}
+
+.prod-map{
+  background-color: blanchedalmond;
+  margin: 10px;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+ 
+  
+
+}
+
+.prod-img{
+  width: 280px;
+  height: 400px;
+}
+  
